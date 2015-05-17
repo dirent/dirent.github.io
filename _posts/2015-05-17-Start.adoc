@@ -1,3 +1,5 @@
 = Start
 
 Blog mit link:http://hubpress.io/[HubPress] eingerichtet.
+
+Blogeinträge werden in link:http://asciidoc.org/[AsciiDoc] formatiert.
