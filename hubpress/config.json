@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "dirent",
-    "repositoryName": "dirent.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Saga"
-  }
-}
+{"meta":{"username":"dirent","repositoryName":"dirent.github.io","branch":"master"},"site":{"url":"https://dirent.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//dirent.github.io/themes/Saga"}}
